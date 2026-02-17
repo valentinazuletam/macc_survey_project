@@ -1,0 +1,17 @@
+overall_rank,course,source_type,responses,average_raw_score,average_normalized_score
+1,ACC 6020 Advanced Financial Application,elective_rating_1_to_5,5,5.0,1.0
+2,ACC 679R Taxation of Business Entities II,elective_rating_1_to_5,26,4.5769,0.9154
+3,ACC 6600 Business Law for Accountants (if taken as an elective),elective_rating_1_to_5,11,4.2727,0.8545
+4,ACC 6410 Tax Research & Procedure,elective_rating_1_to_5,4,4.25,0.85
+5,ACC 6150 Information Systems Audit,elective_rating_1_to_5,28,4.1429,0.8286
+6,ACC 6400 Advanced Tax Business Entities,core_rank_order,55,6.6,0.825
+7,ACC 6250 Financial Reporting and Analysis,elective_rating_1_to_5,24,3.8333,0.7667
+8,ACC 6350 Mgmt Control Sys (if taken as an elective),elective_rating_1_to_5,13,3.6923,0.7385
+9,ACC 6140 Fraud Examination & Forensic Accounting,elective_rating_1_to_5,19,3.6842,0.7368
+10,ACC 6300 Data Analytics,core_rank_order,55,5.4545,0.6818
+11,ACC 6560 Financial Theory & Research I,core_rank_order,55,4.5273,0.5659
+12,ACC 6060 Professionalism and Leadership,core_rank_order,55,4.3091,0.5386
+13,ACC 6510 Financial Audit,core_rank_order,55,4.1818,0.5227
+14,ACC 6600 Business Law for Accountants,core_rank_order,55,3.9091,0.4886
+15,ACC 6350 Management Control Systems,core_rank_order,55,3.8727,0.4841
+16,ACC 6540 Professional Ethics,core_rank_order,55,3.1455,0.3932

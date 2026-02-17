@@ -1,0 +1,10 @@
+MAcc Exit Survey Course Ranking Summary
+========================================
+Total ranked course entries: 16
+
+Top 5 ranked courses (by normalized score):
+  #1: ACC 6020 Advanced Financial Application [elective_rating_1_to_5] - normalized score 1.0 from 5 responses
+  #2: ACC 679R Taxation of Business Entities II [elective_rating_1_to_5] - normalized score 0.9154 from 26 responses
+  #3: ACC 6600 Business Law for Accountants (if taken as an elective) [elective_rating_1_to_5] - normalized score 0.8545 from 11 responses
+  #4: ACC 6410 Tax Research & Procedure [elective_rating_1_to_5] - normalized score 0.85 from 4 responses
+  #5: ACC 6150 Information Systems Audit [elective_rating_1_to_5] - normalized score 0.8286 from 28 responses
