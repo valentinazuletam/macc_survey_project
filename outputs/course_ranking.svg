@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408">
+<rect x="0" y="0" width="100%" height="100%" fill="white"/>
+<text x="30" y="35" font-family="Arial" font-size="24" font-weight="bold">Elective Course Ranking by Mean Rating</text>
+<text x="30" y="55" font-family="Arial" font-size="13" fill="#444">Scale shown from 0 to 5 mean rating</text>
+<line x1="420" y1="62" x2="420" y2="310" stroke="#e2e2e2"/>
+<text x="420" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">0</text>
+<line x1="560" y1="62" x2="560" y2="310" stroke="#e2e2e2"/>
+<text x="560" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">1</text>
+<line x1="700" y1="62" x2="700" y2="310" stroke="#e2e2e2"/>
+<text x="700" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">2</text>
+<line x1="840" y1="62" x2="840" y2="310" stroke="#e2e2e2"/>
+<text x="840" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">3</text>
+<line x1="980" y1="62" x2="980" y2="310" stroke="#e2e2e2"/>
+<text x="980" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">4</text>
+<line x1="1120" y1="62" x2="1120" y2="310" stroke="#e2e2e2"/>
+<text x="1120" y="330" text-anchor="middle" font-size="12" font-family="Arial" fill="#666">5</text>
+<text x="410" y="84" text-anchor="end" font-size="12" font-family="Arial">#1 ACC 6020 Advanced Financial Application</text>
+<rect x="420" y="70" width="700" height="18" fill="#2f6db2"/>
+<text x="1128" y="84" font-size="12" font-family="Arial">5.000</text>
+<text x="410" y="114" text-anchor="end" font-size="12" font-family="Arial">#2 ACC 679R Taxation of Business Entities II</text>
+<rect x="420" y="100" width="640" height="18" fill="#2f6db2"/>
+<text x="1068" y="114" font-size="12" font-family="Arial">4.577</text>
+<text x="410" y="144" text-anchor="end" font-size="12" font-family="Arial">#3 ACC 6600 Business Law for Accountants (if taken as an elective)</text>
+<rect x="420" y="130" width="598" height="18" fill="#2f6db2"/>
+<text x="1026" y="144" font-size="12" font-family="Arial">4.273</text>
+<text x="410" y="174" text-anchor="end" font-size="12" font-family="Arial">#4 ACC 6410 Tax Research &amp; Procedure</text>
+<rect x="420" y="160" width="595" height="18" fill="#2f6db2"/>
+<text x="1023" y="174" font-size="12" font-family="Arial">4.250</text>
+<text x="410" y="204" text-anchor="end" font-size="12" font-family="Arial">#5 ACC 6150 Information Systems Audit</text>
+<rect x="420" y="190" width="580" height="18" fill="#2f6db2"/>
+<text x="1008" y="204" font-size="12" font-family="Arial">4.143</text>
+<text x="410" y="234" text-anchor="end" font-size="12" font-family="Arial">#6 ACC 6250 Financial Reporting and Analysis</text>
+<rect x="420" y="220" width="536" height="18" fill="#2f6db2"/>
+<text x="964" y="234" font-size="12" font-family="Arial">3.833</text>
+<text x="410" y="264" text-anchor="end" font-size="12" font-family="Arial">#7 ACC 6350 Mgmt Control Sys (if taken as an elective)</text>
+<rect x="420" y="250" width="516" height="18" fill="#2f6db2"/>
+<text x="944" y="264" font-size="12" font-family="Arial">3.692</text>
+<text x="410" y="294" text-anchor="end" font-size="12" font-family="Arial">#8 ACC 6140 Fraud Examination &amp; Forensic Accounting</text>
+<rect x="420" y="280" width="515" height="18" fill="#2f6db2"/>
+<text x="943" y="294" font-size="12" font-family="Arial">3.684</text>
+</svg>

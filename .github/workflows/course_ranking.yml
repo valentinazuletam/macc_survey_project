@@ -1,0 +1,34 @@
+name: Deterministic Course Ranking Analysis
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+
+jobs:
+  run-analysis:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -s requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run deterministic ranking workflow
+        run: python src/analyze_course_rankings.py
+
+      - name: Upload outputs artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ranking-outputs
+          path: outputs/
+          if-no-files-found: error
