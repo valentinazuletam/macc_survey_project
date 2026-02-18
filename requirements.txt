@@ -1,0 +1,2 @@
+# This project intentionally uses only Python standard library modules
+# for deterministic execution without third-party runtime dependencies.

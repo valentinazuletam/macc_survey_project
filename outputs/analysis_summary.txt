@@ -1,0 +1,18 @@
+Elective Course Ranking Summary
+================================
+This analysis ranks ONLY elective courses (1-5 rating columns).
+Core rank-order course fields were ignored.
+
+Deterministic tie-break rules:
+1) mean_rating descending (higher is better)
+2) n_responses descending (higher is better)
+3) course alphabetical ascending (A->Z)
+
+Total ranked electives: 8
+
+Top ranked electives:
+  #1: ACC 6020 Advanced Financial Application | mean_rating=5.0 | n_responses=5
+  #2: ACC 679R Taxation of Business Entities II | mean_rating=4.5769 | n_responses=26
+  #3: ACC 6600 Business Law for Accountants (if taken as an elective) | mean_rating=4.2727 | n_responses=11
+  #4: ACC 6410 Tax Research & Procedure | mean_rating=4.25 | n_responses=4
+  #5: ACC 6150 Information Systems Audit | mean_rating=4.1429 | n_responses=28
